@@ -1,0 +1,14 @@
+#hello this is my practice log
+x=8
+print(x)
+x+=1
+print(x)
+bulletsShot=0
+bulletsShot+=3
+print(bulletsShot)
+a= "raw raw ulalala"
+b=3
+c=4.3
+d = True
+print(type(a))
+
