@@ -7,7 +7,6 @@ Sign your name:Carter Sousa
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
 '''
-
 a=2
 b=5
 print(b/a)
@@ -44,8 +43,6 @@ a=
 x,y,z=(3,4,5)
 ave=x+y+z/3
 ave=
-
-
 
 #floor division
 
