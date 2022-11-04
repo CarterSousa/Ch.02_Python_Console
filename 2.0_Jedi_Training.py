@@ -9,7 +9,7 @@ What are the outputs? If the output is an error record the error and try to dete
 '''
 a=2
 b=5
-print(b/a)
+print(b/a)2.5
 print(b//a)
 b**a
 b%a
@@ -27,21 +27,21 @@ a*=10
 a/=2
 a+=12
 a-=7
-a
+a=15
 type(a)
-
+float
 '''
 4.) What is the mistake in the following code. Fix it!
 '''
 x,y=(4,5)
-a=3(x+y)
+a=3*(x+y)
 a=
 
 '''
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 '''
 x,y,z=(3,4,5)
-ave=x+y+z/3
+ave=(x+y+z)/3
 ave=
 
 #floor division
